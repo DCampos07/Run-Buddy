@@ -9,7 +9,7 @@ body {
     font-family: Helvetica, Arial, sans-serif;
   }
 
-/* apply styles to <header> */
+/* Header Styles Starts */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -43,7 +43,9 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
+/* Header Styles Ends> */
 
+/* footer styles starts */
 footer {
     background: #fce138;
     width: 100%;
@@ -66,8 +68,9 @@ footer h2 {
 footer a {
     color: #024e76;
 }
+/* footer styles ends */
 
-/* Hero Style Start */
+/* Hero Styles Start */
 .hero {
     background-image: url(https://static.fullstack-bootcamp.com/module-1/hero-bg.jpg);
     height: 600px;
@@ -85,4 +88,35 @@ footer a {
     bottom: 120px;
     right: 140px;
 }
-/* Hero Style End */
+
+.hero-form h3 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.hero-form p {
+    margin: 5px 0 15x 0;
+}
+
+.form-input {
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.hero-form label {
+    margin: - 5px;
+}
+
+.hero-form button {
+    border: none;
+    padding: 10px 20px;
+    background-color: #024e76;
+    color: #fce138;
+    font-size: 16px;
+}
+/*Hero Styles End/*
