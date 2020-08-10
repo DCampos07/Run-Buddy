@@ -12,3 +12,5 @@ git@github.com:DCampos07/run-buddy.git
 
 ## Contribution
 made with ❤️ by Damaris Campos
+
+### &copy; 2019 Run Buddy, Inc.
