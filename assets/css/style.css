@@ -279,6 +279,20 @@
   }
   
   /* REACH OUT STYLES/CONTACT START */
+ .service-grid-container {
+   display: grid;
+ }
+
+ .service-grid-item {
+   width: 200px;
+   height: 50px;
+   background-color: orange;
+   border: solid;
+   color: black;
+ }
+ 
+ 
+ 
   .contact {
     background: #024e76;
   }
@@ -452,3 +466,4 @@
     order: 3;
   }
 }
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER ENDS*/
