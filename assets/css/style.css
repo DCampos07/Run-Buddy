@@ -277,22 +277,40 @@
   .flex-row {
     display: flex;
   }
-  
-  /* REACH OUT STYLES/CONTACT START */
+  /* Meet the Trainers/Trainers Section Ends */
+
+
+  /* SERVICE PLAN GRID START */
  .service-grid-container {
-   display: grid;
+  
  }
 
  .service-grid-item {
-   width: 200px;
-   height: 50px;
-   background-color: orange;
-   border: solid;
-   color: black;
+ 
  }
+
+ .service-grid-container {
+  display: grid;
+  grid-template-columns: 150px 1fr 1fr;
+  grid-template-rows: 5rem 5rem 5rem 5rem;
+}
+
+.box1 {
+  
+}
+
+.box2 {
+  
+}
+
+.box3 {
  
+}
+
  
- 
+  /* SERVICE PLAN GRID END */
+
+ /* REACH OUT STYLES/CONTACT START */
   .contact {
     background: #024e76;
   }
