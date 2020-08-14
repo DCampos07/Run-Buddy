@@ -242,7 +242,6 @@
   
   .trainer img {
     width: 100%;
-   
   }
   
   .trainer-bio {
@@ -277,7 +276,6 @@
     display: flex;
   }
   /* Meet the Trainers/Trainers Section Ends */
-
 
   /* SERVICE GRID START */
 .services {
@@ -400,7 +398,7 @@
   }
   /* REACH OUT STYLES END */
 
-  /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+  /* MEDIA QUERY FOR SMALLER SCREENS */
 @media screen and (max-width: 980px) {
   header {
     padding-bottom: 0;
